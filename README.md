@@ -1,5 +1,5 @@
 # SecretSanta
-Simple Secret Santa Selector in python emailing selections to each individual using exchange exchangelib.
+Simple Secret Santa Selector in python emailing selections to each individual using exchangelib.
 
 # Email Credentials
 I set up the email notifications using Exchange as the sender. I created a shared mailbox specifically for sending the secret santa notifications.
